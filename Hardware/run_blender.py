@@ -12,7 +12,7 @@ with open(configFile, 'r') as f:
 
 print(data)
 
-length = data["lenght"]
+length = data["length"]
 width = data["width"]
 height = data["height"]
 
